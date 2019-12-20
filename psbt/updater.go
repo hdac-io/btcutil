@@ -17,7 +17,7 @@ import (
 
 	"github.com/btcsuite/btcd/txscript"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/hdac-io/btcutil"
 )
 
 // Updater encapsulates the role 'Updater'
